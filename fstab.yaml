@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/Citisignal-Bruce/Shared%20Documents/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/Citisignal-Bruce/Shared%20Documents/starter-content-commerce/drafts/denham
 
 folders:
   /products/: /products/default
